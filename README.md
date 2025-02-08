@@ -8,6 +8,7 @@ Understand Salary Trends: Explore how salaries vary across experience levels, jo
 Analyze Work Preferences: Gain insights into remote work adoption, job satisfaction, and work-life balance.
 Identify In-Demand Skills: Discover which skills are most valued in the industry.
 Demographic Insights: Examine the distribution of professionals by age, gender, and region.
+
 Features & Functionalities
 🔹 Interactive Dashboards: User-friendly visuals that allow seamless exploration of data.
 🔹 Data Filtering: Users can apply filters to analyze specific segments of the dataset.
