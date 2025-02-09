@@ -11,9 +11,13 @@ Demographic Insights: Examine the distribution of professionals by age, gender, 
 
 **Features & Functionalities**
 🔹 *Interactive Dashboards:* User-friendly visuals that allow seamless exploration of data.
+
 🔹 *Data Filtering:* Users can apply filters to analyze specific segments of the dataset.
+
 🔹 *Salary Breakdown:* A deep dive into compensation patterns across various factors.
+
 🔹 *Skill Trend Analysis:* Identifies the most sought-after technical and soft skills.
+
 🔹 *Work-Life Balance Metrics:* Understand employee satisfaction and work preferences.
 
 **Tools & Technologies Used**
